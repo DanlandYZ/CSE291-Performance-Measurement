@@ -1,0 +1,16 @@
+{
+  "connection_time": 0.2867293357849121,
+  "create_user_table": 0.41128969192504883,
+  "create_item_table": 0.42702603340148926,
+  "create_user_item_table": 0.4181389808654785,
+  "insert_one_user_with_connection": 0.41835618019104004,
+  "insert_one_user_without_connection": 0.12311220169067383,
+  "insert_1000_users": 52.75576663017273,
+  "insert_1000_items": 52.733386754989624,
+  "insert_5_items_one_users_with_connection": 0.5635678768157959,
+  "insert_5_items_one_users_without_connection": 0.26328372955322266,
+  "insert_5_items_per_users": 72.1321029663086,
+  "query_one_with_connection": 0.3630850315093994,
+  "query_one_without_connection": 0.08005285263061523,
+  "query_users": 33.652743339538574
+}
